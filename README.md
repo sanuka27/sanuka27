@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sanuka 👋  
 
-<!--
-**sanuka27/sanuka27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 University student passionate about software development and AI  
+🌱 Currently learning full-stack development (React, Node.js, MongoDB, Firebase)  
+🚀 Interested in cloud technologies and AI-powered applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- Frontend: React, Tailwind CSS  
+- Backend: Node.js, Firebase  
+- Database: MongoDB  
+- Other: Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanuka-marasignhe)
