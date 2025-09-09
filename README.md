@@ -21,8 +21,7 @@
 
 ### 📊 GitHub Stats
 ![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight)  
+ 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanuka27&theme=tokyonight&hide_border=true)
 
