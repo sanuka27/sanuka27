@@ -1,8 +1,7 @@
 # Hi there, I'm Sanuka 👋  
 
 💻 University student passionate about software development and AI  
-🌱 Currently learning full-stack development (React, Node.js, MongoDB, Firebase)  
-🚀 Interested in cloud technologies and AI-powered applications  
+🌱 Currently learning full-stack development (React, Node.js, MongoDB, Firebase)    
 
 ---
 
