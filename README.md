@@ -27,5 +27,4 @@
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanuka-marasinghe/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sanuka.mar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanuka-marasinghe/)
