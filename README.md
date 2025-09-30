@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight)  
+![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanuka27&theme=tokyonight&hide_border=true)
 
