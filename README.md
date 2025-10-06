@@ -1,4 +1,4 @@
-# Hi there, I'm Sanuka 👋  
+# 👋 Hi there, I'm Sanuka  
 
 💻 University student passionate about software development and AI  
 🌱 Currently learning full-stack development (React, Node.js, MongoDB, Firebase)    
@@ -20,9 +20,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanuka27&theme=tokyonight&hide_border=true)
+
+![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanuka27&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
