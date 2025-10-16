@@ -23,7 +23,6 @@
 
 ![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanuka27&theme=tokyonight&hide_border=false)
 ---
 
 ### 🌐 Connect with me  
