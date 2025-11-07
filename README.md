@@ -19,10 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Sanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
 ---
 
 ### 🌐 Connect with me  
