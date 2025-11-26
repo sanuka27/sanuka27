@@ -47,12 +47,10 @@
 <div align="center">
 
 <!-- 🔥 GitHub Streak -->
-<a href="https://streak-stats.demolab.com?user=sanuka27">
-  <img src="https://streak-stats.demolab.com?user=sanuka27&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=sanuka27&theme=tokyonight&hide_border=true" />
 
-<!-- 📈 GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- 📈 GitHub Stats (Stable mirror) -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
