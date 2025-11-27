@@ -57,11 +57,11 @@
 
 <div align="center">
 
-<!-- 🔥 GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=sanuka27&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanuka27&theme=tokyonight&hide_border=true)
 
-<!-- 📈 GitHub Stats (Stable mirror) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
