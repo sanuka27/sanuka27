@@ -1,4 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=230&section=header&text=Sanuka%20Marasinghe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;React+%7C+Node.js+%7C+Firebase;Always+Learning+New+Tech" />
+</p>
+
+---
+
 # 👋 Hi, I'm **Sanuka**
+
 💻 University student passionate about software development & AI  
 🎓 Studying **Bachelor's in IT – University of Moratuwa**  
 🌱 Learning full-stack development (React, Node.js, MongoDB, Firebase)
@@ -57,11 +66,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanuka27&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=sanuka27&theme=tokyonight&hide_border=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -69,3 +78,7 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanuka-marasinghe/)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer)
