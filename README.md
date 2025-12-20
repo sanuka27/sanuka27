@@ -1,84 +1,74 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=230&section=header&text=Sanuka%20Marasinghe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8">Sanuka</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;React+%7C+Node.js+%7C+Firebase;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+Enthusiast;React+%7C+Node.js+%7C+Firebase;Building+Cool+Stuff+Everyday" />
 </p>
 
 ---
 
-# 👋 Hi, I'm **Sanuka**
+## 🧠 About Me
 
-💻 University student passionate about software development & AI  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360" />
+</p>
+
+💻 University student passionate about **software development & AI**  
 🎓 Studying **Bachelor's in IT – University of Moratuwa**  
-🌱 Learning full-stack development (React, Node.js, MongoDB, Firebase)
+🌱 Focused on **Full-Stack, Cloud & AI-powered applications**
 
----
-
-## 🚀 About Me
-- 🔭 Building full-stack web apps  
+- 🔭 Building real-world projects  
 - 🤖 Exploring AI integrations  
 - 🎯 JavaScript / TypeScript enthusiast  
-- 📚 Always learning new tech  
+- 📚 Always learning, always improving  
 
 ---
 
-## 🔧 Tech Stack
+## ⚡ Tech Stack
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+### 🧑‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript&logoColor=3178C6)
+![C#](https://img.shields.io/badge/C%23-0f172a?style=flat&logo=c-sharp&logoColor=239120)
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=flat&logo=tailwindcss&logoColor=38B2AC)
+![React](https://img.shields.io/badge/React-0f172a?style=flat&logo=react&logoColor=61DAFB)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### **Cloud & Services**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+### 🛠 Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat&logo=node.js&logoColor=22C55E)
+![Express](https://img.shields.io/badge/Express-0f172a?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat&logo=mongodb&logoColor=4ADE80)
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=flat&logo=firebase&logoColor=FACC15)
+![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=flat&logo=supabase&logoColor=3ECF8E)
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanuka27&theme=tokyonight&hide_border=true&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=sanuka27&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true&icon_color=38BDF8" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanuka27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanuka-marasinghe/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanuka27&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanuka-marasinghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
+</p>
